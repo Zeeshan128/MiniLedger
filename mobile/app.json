@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "MiniLedger",
+    "slug": "miniledger",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F4F7F5"
+    },
+    "android": {
+      "package": "com.example.miniledger"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
